@@ -1,0 +1,36 @@
+body{
+	font-famiy:Source Sans Pro;
+	background: #282828;
+	background: background-color #861657;
+background-image: linear-gradient(326deg, #861657 0%, #ffa69e 74%);
+
+	background-size: 400% 400%;
+	animation: Gradient 15s ease infinite;
+}
+
+h1{
+	font-weight: lighter;
+	font-size: 80px;
+	color:#ffffff;
+	text-align: center;
+padding-top: 50px;
+margin-bottom:0;
+}
+h3{
+	font-weight: lighter;
+	font-size: 30px;
+	color:#ffffff;
+	text-align: center;
+padding-top: 50px;
+margin-bottom:0;
+}
+
+h4{
+	font-weight: lighter;
+	font-size: 30px;
+	color:#ffffff;
+	text-align: center;
+padding-top: 50px;
+margin-bottom:0;
+}
+
